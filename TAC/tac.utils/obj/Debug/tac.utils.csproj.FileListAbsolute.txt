@@ -51,24 +51,7 @@ C:\Training\Student Folder\TAC\tac.utils\obj\Debug\TAC.Utils.dll
 C:\Training\Student Folder\TAC\tac.utils\obj\Debug\TAC.Utils.pdb
 C:\Training\TAC\tac.utils\bin\Debug\TAC.Utils.dll
 C:\Training\TAC\tac.utils\bin\Debug\TAC.Utils.pdb
-C:\Training\TAC\tac.utils\bin\Debug\Microsoft.Owin.dll
-C:\Training\TAC\tac.utils\bin\Debug\Microsoft.Web.Infrastructure.dll
-C:\Training\TAC\tac.utils\bin\Debug\Owin.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Helpers.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Mvc.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Razor.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.Deployment.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.dll
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.Razor.dll
-C:\Training\TAC\tac.utils\bin\Debug\Microsoft.Owin.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Helpers.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Mvc.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.Razor.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Training\TAC\tac.utils\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Training\TAC\tac.utils\obj\Debug\tac.utils.csprojAssemblyReference.cache
 C:\Training\TAC\tac.utils\obj\Debug\tac.utils.csproj.CoreCompileInputs.cache
-C:\Training\TAC\tac.utils\obj\Debug\tac.utils.csproj.CopyComplete
 C:\Training\TAC\tac.utils\obj\Debug\TAC.Utils.dll
 C:\Training\TAC\tac.utils\obj\Debug\TAC.Utils.pdb
